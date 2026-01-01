@@ -24,6 +24,6 @@
 |**習題 11 : 請把計算理論的故事講一遍 （問 AI 回答也可以）**|
 |[AIChat](https://gemini.google.com/app/41572c9a51adf973)<br>*Conversation with AI*|
 |**習題 12 : 請用梯度下降法之類的優化算法，驗證 cross_entropy(p, q) 的最低點是 q=p**|
-|[HW12]()<br>*Debug using Gemini*|
+|[HW12](https://github.com/Erkmrcl17/_alg/blob/main/HW12.py)<br>*Debug using Gemini*|
 |**MIDTERM PROJECT**|
 |[midterm](https://github.com/Erkmrcl17/_alg/tree/main/midterm)<br>*Doing by myself.This project implements a simple Blockchain system in Python. It demonstrates the fundamental concepts of blockchain, including blocks, hashing, proof-of-work mining, and validation.*<br>[readme](https://github.com/Erkmrcl17/_alg/blob/main/midterm/readme.md)|
